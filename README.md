@@ -1,2 +1,3 @@
-# python-exercises-mini-projects-
+# python-mini-projects
+
 Mini projects in python.
